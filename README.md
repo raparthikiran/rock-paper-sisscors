@@ -1,2 +1,2 @@
  # rock-paper-scissors #tic tac toe
-this are my two projects using javascrpit,css,html in frontend 
+this are my two projects created by using js,css,html 
